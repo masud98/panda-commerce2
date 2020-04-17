@@ -1,0 +1,58 @@
+.tv-bg-color{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rebeccapurple;
+}
+.button-link{
+    background-image: linear-gradient(45deg,olive,green);
+    padding: 9px 5px;
+    border: none;
+    border-radius: 8%;
+    -webkit-border-radius: 8%;
+    -moz-border-radius: 8%;
+    -ms-border-radius: 8%;
+    -o-border-radius: 8%;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 50px;
+}
+.cat1{
+    background-color: salmon;
+    padding: 10px 30px;
+}
+.cat2{
+    background-image: linear-gradient(45deg, orange,red);
+    padding: 10px 30px;
+}
+.cat3{
+    background-color: sienna;
+    padding: 10px 30px;
+}
+.cat3, .cat2, .cat1{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contactus{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
